@@ -85,6 +85,7 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 ## Patents & Publications
 •	Enhanced Access Point Name Resolution Support for Mobile Virtual Network Operators -Patent No. US 11,800,350 B1\
 •	Enhanced User Equipment Off-Network Connection Signaling Support for Mobile Virtual Network Operators – Publication No 20240224020 · Issued Jul 4, 2024\
+•	Sponsored Roaming AI based QoS Management for MVNO -Patent Pending\
 •	Enhanced support for roaming connectivity by user equipment associated with mobile virtual network operators - Patent Pending\
 •	Persisting private mobile wireless network preference for mobile wireless network devices on private networks - Patent Pending\
 •	Supporting user equipment attachment to a mobile virtual network operator packet gateway via a sponsor mobile wireless network operator routing agent - Patent Pending\
