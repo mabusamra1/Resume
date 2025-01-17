@@ -1,7 +1,4 @@
 # Mohammad Abu-Samra
-1300 E Francis Rd, New Lenox, IL 60451\
-Cell#: (815)531-7764\
-Email: mabusamra1@gmail.com | LinkedIn: https://www.linkedin.com/in/mabusamra1 | GitHub: https://github.com/mabusamra1
 
 ## PRINCIPAL NETWORK SOLUTIONS ARCHITECT
 
