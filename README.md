@@ -6,25 +6,25 @@ Email: mabusamra1@gmail.com | LinkedIn: https://www.linkedin.com/in/mabusamra1 |
 ## PRINCIPAL NETWORK SOLUTIONS ARCHITECT
 
 ## Summary
-•	Principal Solutions Architect pioneer with 25+ years of experience in IT and Telecommunications technologies for pre and post sales.\ 
+•	Principal Solutions Architect pioneer with 25+ years of experience in IT and Telecommunications technologies for pre and post sales.\
 •	Proven records of Opex savings, increasing ROI, implementing enterprise-wide architecture strategies/solutions, and fostering customer relationship\
 •	Network services solutions architect and deployment leader for 60+ projects for 3G/4G/LTE/VoLTE /5G/ WiFi/ IoT/Cloud /AI technologies. Demonstrated expertise in the following areas:\
 •	Cloud Computing, Systems Virtualization, Distribution Environment, Data Science, ML/AI, and Automation.\
-•	IP Networks switching/routing protocols, and security configuration.\ 
+•	IP Networks switching/routing protocols, and security configuration.\
 •	Software design and development life cycle (SDLC)\
 •	Systems optimization, high availability modeling, and design fault tolerance system.\
 •	Creating technical documentation; network architecture, requirements, design, proposals, and use cases.\
-•	Project management, risk management and communication skills.\  
+•	Project management, risk management and communication skills.\
 •	Patents and intellectual properties champion 
 
 
 ## Technical Skills
 Technologies: CDMA, GSM, 4G/LTE, Fiber Optic, pLTE, CAT-M, LTE-NB, 5G, IoT, eSIM, WiFi, VoLTE/IMS, Clouds, and AI/ML.\
 Protocols: TCP/IP, Ethernet, BGP, OSPF, MPLS, DNS, NTP, DHCP, Diameter, SIP and HTTPS\
-Network Security: VPN (IPSec, L2TP), Firewall, Cisco, SAML, and SSL.\ 
-IP Networks: Cisco, Juniper, Redback/Ericsson, Foundry/Brocade and HP\ 
-Database: MS Access, MySQL, and Oracle 10g/11g\ 
-Operating Systems: MS Windows, UNIX, Linux, Solaris, Openstack, VMWare, and Openshift\ 
+Network Security: VPN (IPSec, L2TP), Firewall, Cisco, SAML, and SSL.\
+IP Networks: Cisco, Juniper, Redback/Ericsson, Foundry/Brocade and HP\
+Database: MS Access, MySQL, and Oracle 10g/11g\
+Operating Systems: MS Windows, UNIX, Linux, Solaris, Openstack, VMWare, and Openshift\
 Hardware: Sun Sparc/Netra, Emerson ATCA, Cisco, and HP/DL servers\
 Simulation and Automation: Seagull, Spirent; Landslide/Velocity. iTEST, and NetCSS\
 Modeling: Matlab, UltraSan, SHARP, MEADEP, OPNET, and ML-AI with Python\
@@ -77,9 +77,9 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 •	Jordan University of Science and Technology, Irbid, Jordan -BS, Electrical/Computer Engineering, 1991 
 
 ## Technical Training
-•	Artificial Inelegance and Machine Learning -UC Berkeley\ 
+•	Artificial Inelegance and Machine Learning -UC Berkeley\
 •	Analytics and Automation -Python\
-•	Neural Network Design\ 
+•	Neural Network Design\
 •	AWS Architecture
 
 ## Patents & Publications
