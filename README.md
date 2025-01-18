@@ -31,7 +31,7 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 
 ## Professional Experience
 ### UScellular Corporation — Principal Network Solution Architect   Jun 2016 – Present
-•	Designed and implemented network services for over 30 projects, leveraging LTE, VoLTE, IMS, 5G, and IoT technologies to support initiatives such as emergency services, prioritized data/voice, Private LTE (CUPS), domestic and international LTE/VoLTE roaming, and Diameter security.\
+•	Designed and implemented network services for over 30 projects, leveraging LTE, VoLTE, IMS, 5G, and IoT technologies to support initiatives such as emergency services, prioritized data/voice, Private LTE (CUPS), domestic and international LTE/VoLTE roaming and Diameter security.\
 •	Reduced Opex and increased RoI by developing innovative, cutting-edge network solutions that established UScellular as an IoT aggregator, seamlessly integrating IoT MVNO enterprise customers, like FloLive, Ameren, Monogoto, Webbing, and Southern Linc …etc.\
 •	Engineered IoT eSIM solutions based on GSMA push-and-pull models, directly contributing to securing contracts with enterprise clients such as RelayPro and TactaCam.\
 •	Played a key role in the successful CDMA sunset by identifying and updating impacted network configurations, ensuring a smooth transition.\
@@ -51,10 +51,10 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 
 ### Motorola Solutions Inc. Apr 2000 – Apr 2011
 #### Principal Member of Technical Staff, Systems Architect 2007- 2011
-•	Successfully led over 20 end-to-end 3G/4G network integration projects, enhancing products and processes while delivering innovative solutions to address complex technical issues and meet customer business requirements.\
+•	Successfully led over 20+ end-to-end 3G/4G network integration projects, enhancing products and processes while delivering innovative solutions to address complex technical issues and meet customer business requirements.\
 •	Provided expert technical support and consultation to account teams during the presale phase, defining and promoting new services, which contributed to increased client satisfaction and revenue growth.\
-•	Demonstrated exceptional expertise and expanded responsibilities, earning consistent top performance ratings and achieving a career milestone with promotion to the technical staff board membership in 2009.\
-•	Received a prestigious award for leading WiMAX ASN-GW operations and configuration across eight markets, including spearheading centralized ASN-GW capacity expansion initiatives that improved efficiency and scalability.\
+•	Demonstrated exceptional expertise and expanded responsibilities, earning consistent top performance ratings and achieving a career milestone with promotion to the technical staff board in 2009.\
+•	Received a prestigious award for leading WiMAX ASN-GW operations and configuration across 12 markets, including spearheading centralized ASN-GW capacity expansion initiatives that improved efficiency and scalability.\
 •	Designed and implemented advanced automation tools for upgrading over 4,000 Cisco routers, switches, and aggregate nodes across 72 CDMA and EVDO network sites, achieving substantial Opex savings and completing projects ahead of schedule for major clients, including Alltel, Verizon, AT&T, and AWCC.
 
 #### Release Manager –North America CDMA Release Management 		2005 –2006 
