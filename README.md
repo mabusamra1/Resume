@@ -37,7 +37,7 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 •	Played a key role in the successful CDMA sunset by identifying and updating impacted network configurations, ensuring a smooth transition.\
 •	Designed and validated proof-of-concept (PoC) test plans for all project designs, ensuring robustness and reliability through comprehensive lab testing.
 
-### Oracle Corporation — Senior Solutions Architect Consultant March 2012 – Jun 2016
+### Oracle Corporation\Tekelec Inc. — Senior Solutions Architect Consultant March 2012 – Jun 2016
 •	Served as a Subject Matter Expert (SME) in Oracle DRA product, leading end-to-end deployment, configuration, and maintenance of critical systems for both bare-metal and could solutions.\
 •	Collaborated with clients to gather business requirements, identify technical requirements, and define new sales opportunities, driving project success and customer satisfaction.\
 •	Directed the deployment and integration of 3G/4G signaling protocol-based products (SS7 and Diameter), ensuring seamless implementation and optimal performance.\
