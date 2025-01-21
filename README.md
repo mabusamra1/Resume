@@ -69,13 +69,13 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 •	Minimized customer-reported defects by creating troubleshooting guides, user documentation, and monthly newsletters, while reducing manual procedure errors through flowchart-based mechanisms.
 
 ## Education
-•	Berkeley University, CA	-Certification/Machine Learning and Artificial Intelligence, 2024\
+•	Berkeley University, CA	- Prof Cert, Machine Learning and Artificial Intelligence, 2024\
 •	Northeastern Illinois University, Chicago, IL -MS, Computer Science, 1999 (4.0/4.0)\
 •	Jordan University of Science and Technology, Irbid, Jordan -BS, Electrical/Computer Engineering, 1991 
 
-## Technical Training
-•	Artificial Inelegance and Machine Learning -UC Berkeley\
-•	5G Network Fundametals Certificatation- Coursera\
+## Technical Training & Certifications
+•	Prof Cert in AI-ML -UC Berkeley\
+•	5G Network Fundametals Cert- Coursera\
 •	Analytics and Automation -Python\
 •	Neural Network Design\
 •	AWS Architecture
