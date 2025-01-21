@@ -75,7 +75,7 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 
 ## Technical Training
 •	Artificial Inelegance and Machine Learning -UC Berkeley\
-•	5G Network Fundametals Certificatation- Coursera\ 
+•	5G Network Fundametals Certificatation- Coursera\
 •	Analytics and Automation -Python\
 •	Neural Network Design\
 •	AWS Architecture
