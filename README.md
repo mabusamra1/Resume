@@ -3,39 +3,44 @@
 ## PRINCIPAL NETWORK SOLUTIONS ARCHITECT
 
 ## Summary
-•	Principal Solutions Architect pioneer with 25+ years of experience in IT and Telecommunications technologies for pre and post sales.\
-•	Proven records of Opex savings, increasing ROI, implementing enterprise-wide architecture strategies/solutions, and fostering customer relationship\
-•	Network services solutions architect and deployment leader for 60+ projects for 3G/4G/LTE/VoLTE /5G/ WiFi/ IoT/Cloud /AI technologies. Demonstrated expertise in the following areas:\
-•	Cloud Computing, Systems Virtualization, Distribution Environment, Data Science, ML/AI, and Automation.\
-•	IP Networks switching/routing protocols, and security configuration.\
-•	Software design and development life cycle (SDLC)\
-•	Systems optimization, high availability modeling, and design fault tolerance system.\
-•	Creating technical documentation; network architecture, requirements, design, proposals, and use cases.\
-•	Project management, risk management and communication skills.\
-•	Patents and intellectual properties champion 
+With over 25 years of experience and as a Principal Solutions Architect in IT and Telecommunications, I have a proven track record in delivering innovative solutions and driving operational excellence. My expertise encompasses:\
+•	Strategic Solution Architecture and Development\
+•	Advanced 4G/5G Cellular Network Services\
+•	Comprehensive Technical Documentation\
+•	Cloud, Virtualization and Automation\
+•	Data Science and AI/ML\
+•	System Optimization and High Availability\
+•	IP Networking and Security\
+•	Software Development Lifecycle (SDLC)\
+•	Project and Risk Management\
+•	Innovation and Intellectual Property
+
 
 
 ## Technical Skills
-Technologies: CDMA, GSM, 4G/LTE, Fiber Optic, pLTE, CAT-M, LTE-NB, 5G, IoT, eSIM, WiFi, VoLTE/IMS, Clouds, and AI/ML.\
+Technologies: 3G/4G/LTE/5G, Fiber Optic, pLTE, IoT, eSIM, WiFi, VoLTE/IMS and AI/ML/Neural Networks/LLM.\
+Cloud Tech:  Docker, Kubernetes, Kafka, AWS, Azure, Google and OCI\
 Protocols: TCP/IP, Ethernet, BGP, OSPF, MPLS, DNS, NTP, DHCP, Diameter, SIP and HTTPS\
-Network Security: VPN (IPSec, L2TP), Firewall, Cisco, SAML, and SSL.\
-IP Networks: Cisco, Juniper, Redback/Ericsson, Foundry/Brocade and HP\
-Database: MS Access, MySQL, and Oracle 10g/11g\
-Operating Systems: MS Windows, UNIX, Linux, Solaris, Openstack, VMWare, and Openshift\
+Network Security: VPN (IPSec, L2TP), Firewall, Cisco, SAML, and SSL.\ 
+IP Networks: Cisco, Juniper, Redback/Ericsson, Foundry/Brocade and HP\ 
+Database: MS Access, MySQL, and Oracle 10g/11g\ 
+Operating Systems: MS Windows, UNIX, Linux, Solaris, Openstack, VMWare, and Openshift\ 
 Hardware: Sun Sparc/Netra, Emerson ATCA, Cisco, and HP/DL servers\
 Simulation and Automation: Seagull, Spirent; Landslide/Velocity. iTEST, and NetCSS\
 Modeling: Matlab, UltraSan, SHARP, MEADEP, OPNET, and ML-AI with Python\
-SDLC: GIT, GitHub, Docker, Kubernetes, Clear Case, Makefiles, OOD & UML, DOORs, C, C++, Java, SQL, Perl, Python, XML, Shell scripting, Expect and Assembly.\
-Troubleshooting: Iperf, Wireshark, Ethereal, nmap
+SDLC: GIT, GitHub, Jenkins, C, C++, Java, SQL, Perl, Python, XML, Shell scripting, Expect and Assembly.\
+Troubleshooting: Iperf, Wireshark, Ethereal, nmap.
+
 
 
 ## Professional Experience
 ### UScellular Corporation — Principal Network Solution Architect   Jun 2016 – Present
-•	Designed and implemented network services for over 30 projects, leveraging LTE, VoLTE, IMS, 5G, and IoT technologies to support initiatives such as emergency services, prioritized data/voice, Private LTE (CUPS), domestic and international LTE/VoLTE roaming and Diameter security.\
-•	Reduced Opex and increased RoI by developing innovative, cutting-edge network solutions that established UScellular as an IoT aggregator, seamlessly integrating IoT MVNO enterprise customers, like FloLive, Ameren, Monogoto, Webbing, and Southern Linc …etc.\
-•	Engineered IoT eSIM solutions based on GSMA push-and-pull models, directly contributing to securing contracts with enterprise clients such as RelayPro and TactaCam.\
-•	Played a key role in the successful CDMA sunset by identifying and updating impacted network configurations, ensuring a smooth transition.\
-•	Designed and validated proof-of-concept (PoC) test plans for all project designs, ensuring robustness and reliability through comprehensive lab testing.
+•	Architected and designed network services for over 30 projects, focusing on LTE/VoLTE/IMS/5G/IoT technologies.\
+•	Developed innovative IoT solutions, enabling UScellular to become an IoT aggregator for enterprise customers, including energy/utilities sectors clients such as Ameren and Southern Linc.\
+•	Developed LTE signaling application security solution for protecting the network from the roaming malicious traffic.\
+•	Designed IoT eSIM solutions based on GSMA push-and-pull models, directly contributing to securing contracts with enterprise clients such as RelayPro and TactaCam.\
+•	Achieved top 5% performance rating for three consecutive years, reflecting a commitment to excellence.
+
 
 ### Oracle Corporation\Tekelec Inc. — Senior Solutions Architect Consultant March 2012 – Jun 2016
 •	Served as a Subject Matter Expert (SME) in Oracle DRA product, leading end-to-end deployment, configuration, and maintenance of critical systems for both bare-metal and could solutions.\
@@ -43,7 +48,7 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 •	Directed the deployment and integration of 3G/4G signaling protocol-based products (SS7 and Diameter), ensuring seamless implementation and optimal performance.\
 •	Defined the scope of work (SOW) and pricing for project deployment and integration, aligning technical solutions with client objectives and budgets.\
 •	Designed comprehensive IP network architecture plans, technical documentation, and acceptance test plans to support successful project execution.\
-•	Supervised and guided field deployment engineers, ensuring efficient and accurate project implementation.
+•	Managed field deployment engineers, ensuring efficient and accurate project implementation.
 
 ### Nokia Siemens Networks (NSN) — Systems Integration Solutions Engineer May 2011 – Mar 2012
 •	Developed IMS and LTE solutions, supporting large-scale service providers.\
@@ -74,18 +79,23 @@ Troubleshooting: Iperf, Wireshark, Ethereal, nmap
 •	Jordan University of Science and Technology, Irbid, Jordan -BS, Electrical/Computer Engineering, 1991 
 
 ## Technical Training & Certifications
-•	Prof Cert in AI-ML -UC Berkeley\
-•	5G Network Fundametals Cert- Coursera\
-•	Analytics and Automation -Python\
-•	Neural Network Design\
-•	AWS Architecture
+•	Routing/Switches IP Configuration\
+•	Object-Oriented Analysis and Design\
+•	Machine Learning/AI - UC Berkeley\
+•	Analytics and Automation - Python\
+•	AWS Architecture\
+•	Containers and Kubernetes\
+•	Advanced Perl Programming\
+•	Neural Network Design
+
 
 ## Patents & Publications
-•	Enhanced Access Point Name Resolution Support for Mobile Virtual Network Operators -Patent No. US 11,800,350 B1\
-•	Enhanced User Equipment Off-Network Connection Signaling Support for Mobile Virtual Network Operators – Publication No 20240224020 · Issued Jul 4, 2024\
-•	Sponsored Roaming AI based QoS Management for MVNO -Patent Pending\
-•	Enhanced support for roaming connectivity by user equipment associated with mobile virtual network operators - Patent Pending\
-•	Persisting private mobile wireless network preference for mobile wireless network devices on private networks - Patent Pending\
-•	Supporting user equipment attachment to a mobile virtual network operator packet gateway via a sponsor mobile wireless network operator routing agent - Patent Pending\
-•	Optimizing WiMAX VoIP QoS parameters using Neural Networks per design approach, University of Idaho, 2009\
-•	Optimizing the RF Inter-Modulation interference detection and prediction 2nd and 3rd orders, White Paper, 2002   
+•	Enhanced Access Point Name Resolution Support for Mobile Virtual Network Operators - Patent No. US 11,800,350 B1\
+•	Enhanced User Equipment Off-Network Connection Signaling Support for Mobile Virtual Network Operators – Publication No. 20240224020, Issued July 4, 2024\
+•	Supporting IoT Devices Attachment to a MVNO Packet Gateway via a Sponsor Mobile Wireless Network Operator Routing Agent - Patent Pending\
+•	Enhanced Support for Roaming Connectivity of IoT Devices Associated with MVNO - Patent Pending\
+•	Persisting Private Mobile Wireless Network Preference for Mobile Wireless Network Devices on Private Networks - Patent Pending\
+•	Event-Triggered Radio Access to Private Mobile Network for Devices Registered to A Neighboring Private Mobile Network\
+•	Sponsored Roaming AI Based Model for QoS Management for MVNO - Patent Pending\
+•	MVNO Type C Enterprise Access Restriction – Patent Pending
+ 
