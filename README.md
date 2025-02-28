@@ -31,21 +31,18 @@ Modeling: Matlab, UltraSan, SHARP, MEADEP, OPNET, and ML-AI with Python\
 SDLC: GIT, GitHub, Jenkins, C, C++, Java, SQL, Perl, Python, XML, Shell scripting, Expect and Assembly.\
 Troubleshooting: Iperf, Wireshark, Ethereal, nmap.
 
-
-
 ## Professional Experience
 ### UScellular Corporation — Principal Network Solution Architect   Jun 2016 – Present
 •	Architected and designed network services for over 30 projects, focusing on LTE/VoLTE/IMS/5G/IoT technologies.\
 •	Developed innovative IoT solutions, enabling UScellular to become an IoT aggregator for enterprise customers, including energy/utilities sectors clients such as Ameren and Southern Linc.\
 •	Developed LTE signaling application security solution for protecting the network from the roaming malicious traffic.\
 •	Designed IoT eSIM solutions based on GSMA push-and-pull models, directly contributing to securing contracts with enterprise clients such as RelayPro and TactaCam.\
-•	Achieved top 5% performance rating for three consecutive years, reflecting a commitment to excellence.
-
+• Developed a generative AI application utilizing the RAG framework to parse and create technical documentation, resulting in increase of the Network Solutions Architecture team's productivity\
+•	Consistently ranked in the top 5% of performers, demonstrating a strong commitment to excellence.
 
 ### Oracle Corporation\Tekelec Inc. — Senior Solutions Architect Consultant March 2012 – Jun 2016
-•	Served as a Subject Matter Expert (SME) in Oracle DRA product, leading end-to-end deployment, configuration, and maintenance of critical systems for both bare-metal and could solutions.\
+•	Led design, deployment and integration of 3G/4G signaling protocols (SS7 and Diameter) products for the largest MNOs like T-Mobile, VzW and AT&T, and ensured seamless operation.\
 •	Collaborated with clients to gather business requirements, identify technical requirements, and define new sales opportunities, driving project success and customer satisfaction.\
-•	Directed the deployment and integration of 3G/4G signaling protocol-based products (SS7 and Diameter), ensuring seamless implementation and optimal performance.\
 •	Defined the scope of work (SOW) and pricing for project deployment and integration, aligning technical solutions with client objectives and budgets.\
 •	Designed comprehensive IP network architecture plans, technical documentation, and acceptance test plans to support successful project execution.\
 •	Managed field deployment engineers, ensuring efficient and accurate project implementation.
